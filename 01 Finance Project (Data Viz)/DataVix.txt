@@ -1,1 +1,0 @@
-Simple financial analysis with light EDA and use of major visualization libraries.
