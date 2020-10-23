@@ -10,3 +10,4 @@ Files include:
 5. Simple Random Forest model to predict whether or not someone is likely to pay back a loan based on a number of features, categorical and numerical
 6. Simple Support Vector Machines demonstration through sklearn utilizing the famous Iris Dataset
 7. K-Means Clustering demo with a college dataset
+8. Simple Natural language processing project utilizing reviews from Yelp
